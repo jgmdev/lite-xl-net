@@ -1,7 +1,8 @@
 {
   "plugins": [
     {
-      "name": "net",
+      "id": "net",
+      "name": "Net",
       "version": "1.0",
       "type": "library",
       "description": "Add support for TCP and UDP sockets using SDL_net.",
